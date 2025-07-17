@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFE3E1&height=300&section=header&text=HI)
 
 <!--
 **psychewooo/psychewooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
