@@ -7,7 +7,6 @@
 
 ### 🛠️ 현재 배우고 있는 것
 - Python 기초
-- Git & GitHub 협업 흐름
 
 ### ✍️ 학습과 기록
 - 📘 티스토리 블로그: [psychew.tistory.com]
