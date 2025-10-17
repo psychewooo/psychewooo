@@ -10,7 +10,9 @@
 - 📘 티스토리 블로그: [psychew.tistory.com]
   SW 공부 기록과 개발 일지를 정리하고 있어요.
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{psychwooo}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <!--
 **psychewooo/psychewooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
